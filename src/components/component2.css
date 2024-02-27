@@ -1,0 +1,27 @@
+.containerTwo{
+ display: flex;
+ flex-direction: column;
+ padding: 2vmin 2vmin;
+}
+
+.containerTwo h6{
+    font-weight:800;
+    font-size: 2.2vmin;
+}
+.figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:1vmin;
+}
+.figure img{
+    width:100%;
+    height:auto;
+    padding: 1.5vmin 10vmin;
+    margin:0 7vmin;
+}
+
+.figure p{
+   font-size: 1.7vmin;
+}
